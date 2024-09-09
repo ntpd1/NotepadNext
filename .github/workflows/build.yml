@@ -9,7 +9,7 @@ on:
   pull_request:
 
 env:
-  QT_RELEASE_VER: 6.5
+  QT_RELEASE_VER: 5.15
 
 jobs:
   build:
