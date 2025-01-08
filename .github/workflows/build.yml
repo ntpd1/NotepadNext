@@ -1,4 +1,4 @@
-name: Build Notepad Next
+name: Build Notepad Next1
 
 on:
   push:
